@@ -155,7 +155,7 @@ div #logo {
 #drawer-toggle:checked ~ #drawer-toggle-label {
   height: 100%;
   width: calc(100% - 300px);
-  background: rgba(255, 255, 255, .8);
+  background: rgba(255, 255, 255, 0);
 }
 
 #drawer-toggle:checked ~ #drawer-toggle-label,
